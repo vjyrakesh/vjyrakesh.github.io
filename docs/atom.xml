@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Rakesh Kasibhatla</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000"/>
- <updated>2020-10-04T19:12:58+05:30</updated>
- <id>http://localhost:4000</id>
+ <link href="https://vjyrakesh.github.io/atom.xml" rel="self"/>
+ <link href="https://vjyrakesh.github.io"/>
+ <updated>2020-12-21T15:41:59+05:30</updated>
+ <id>https://vjyrakesh.github.io</id>
  <author>
    <name>Rakesh Kasibhatla</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>First Post</title>
-   <link href="http://localhost:4000/blog/2020/10/04/first-post/"/>
+   <link href="https://vjyrakesh.github.io/blog/2020/10/04/first-post/"/>
    <updated>2020-10-04T00:00:00+05:30</updated>
-   <id>http://localhost:4000/blog/2020/10/04/first-post</id>
+   <id>https://vjyrakesh.github.io/blog/2020/10/04/first-post</id>
    <content type="html">&lt;p&gt;Hello again! This is my first post in the newly created blog of my personal website. Going forward, this will be the home to all my blog posts hereafter.&lt;/p&gt;
 
 &lt;p&gt;Happy reading! Cheers!&lt;/p&gt;
