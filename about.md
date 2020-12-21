@@ -17,7 +17,8 @@ I like building stuff - whether it's Lego or software, there's always an active 
 - Bachelor of Technology in Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad([JNTU](https://jntuh.ac.in/)).
 
 <i class="fa fa-code"></i> **Work**
-- Software Engineer, Cisco Systems (2015 - Present)
+- Principal Software Engineer, Informatica (2020 - present)
+- Software Engineer, Cisco Systems (2015 - 2020)
 - Associate Consultant, Siemens Healthineers (2009 - 2015)
 - Research Intern, Motorola India Research Labs (2009)
 
